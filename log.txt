@@ -1,0 +1,16 @@
+[2025-11-10 22:54:05] Entrada: placa FVY5E05 -> vaga 1
+[2025-11-10 22:54:24] Entrada: placa EZC1A30 -> vaga 9
+[2025-11-10 22:54:44] Saída: placa FVY5E05 -> valor R$10.00
+[2025-11-10 22:55:00] Banco de dados zerado pelo usuário.
+[2025-11-10 23:00:23] Entrada: placa FYB5B10 -> vaga 1
+[2025-11-10 23:00:39] Entrada: placa EZD5E10 -> vaga 10
+[2025-11-10 23:00:55] Entrada: placa FLY8B56 -> vaga 14
+[2025-11-10 23:01:07] Entrada: placa FUR5A61 -> vaga 30
+[2025-11-10 23:01:56] Banco de dados zerado pelo usuário.
+[2025-11-10 23:02:44] Entrada: placa LOHANY -> vaga 1
+[2025-11-10 23:02:55] Entrada: placa VILAS -> vaga 9
+[2025-11-10 23:03:04] Entrada: placa BOAS -> vaga 20
+[2025-11-10 23:03:23] Saída: placa LOHANY -> valor R$10.00
+[2025-11-10 23:03:35] Saída: placa VILAS -> valor R$10.00
+[2025-11-10 23:03:52] Entrada: placa VILAS -> vaga 20
+[2025-11-10 23:04:03] Saída: placa VILAS -> valor R$10.00
